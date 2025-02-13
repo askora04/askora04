@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kora</h1>
+<h3 align="center">Aspiring Data Analyst</h3> 
+<img align="right" alt="coding" width="400" src=<img align="right" alt="coding" width="400" src=["https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=253&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7"]
 <h3 align="center">Hey there! I'm an aspiring data analyst with a passion for extracting insights from data. I love working with SQL 🛢️, Python 🐍, Excel 📊, and visualization tools like Power BI 📈 and Tableau 🎨 to uncover trends and drive decision-making. I'm always eager to solve complex problems, automate workflows, and expand my knowledge in data wrangling, EDA 🔎, and business intelligence 📉.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askora04&label=Profile%20views&color=0e75b6&style=flat" alt="askora04" /> </p>
